@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "チェリボム",
+  "base_artist": "Silent Siren",
+  "createdAt": "2026-03-20T10:58:58.006708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チェリボム",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/01_チェリボム_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チェリボム",
+      "artist": "Silent Siren",
+      "has_synced": true,
+      "path": "select/02_チェリボム_Silent_Siren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チェリボム",
+      "artist": "Silent Siren",
+      "has_synced": false,
+      "path": "select/pl_01_チェリボム_Silent_Siren.txt"
+    }
+  ]
+}
